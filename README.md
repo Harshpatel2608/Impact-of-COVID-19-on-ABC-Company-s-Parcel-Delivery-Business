@@ -4,9 +4,9 @@
 This project analyzes how the COVID-19 pandemic affected ABC Company’s parcel delivery business using 2019 and 2020 weekly parcel data.
 
 ## Files Included
-- Final.ipynb – Jupyter Notebook with full analysis
+- Group_12_Final_Project.ipynb – Jupyter Notebook with full analysis
 - COVID_Parcel_Business.csv – dataset used for analysis
-- Executive_Presentation.pptx – executive-level presentation
+-  Presentation
 
 ## Analysis Covered
 - descriptive statistics
